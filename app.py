@@ -25,8 +25,8 @@ def word_preprocessing_vectorize(text):
     return tokens
     
 
-st.title("Sentiment Analysis")
-text = st.text_input("Type here your Essay topic")
+st.title("Sentiment Analysis-Amazon product review")
+text = st.text_input("Type your product review here")
 
 submitted = st.button("submit")
 
