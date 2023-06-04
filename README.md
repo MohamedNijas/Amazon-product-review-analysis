@@ -1,6 +1,7 @@
-#Amazon Product Review Sentiment Analysis
+#Amazon Product Review Sentiment Analysis                                                                                            
+
 This is a simple application that performs sentiment analysis on Amazon product reviews. It uses a machine learning model to predict whether a given review is positive or negative.
-You can access the deployed application by clicking this link: https://mohamednijas-amazon-product-review-analysis-app-z478gf.streamlit.app/
+You can access the deployed application by clicking this link: https://mohamednijas-amazon-product-review-analysis-app-z478gf.streamlit.app/                                                                                                                 
 Installation
 To run this application, you need to install the following dependencies:
 
